@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Test Of Chemistry</string>
+    <string name="input_name">请输入姓名</string>
+    <string name="total_score">总分：</string>
+    <string name="question_type_one">单项选择题（每题2分）</string>
+    <string name="question_one">1、以下对分子和原子的认识正确的是</string>
+    <string name="question_one_a">分子运动而原子不运动</string>
+    <string name="question_one_b">分子可分而原子不可分</string>
+    <string name="question_one_c">分子构成物质而原子不能构成物质</string>
+    <string name="question_one_d">原子由原子核和核外电子构成</string>
+    <string name="question_two">2、下列符号表示1个氢分子的是</string>
+    <string name="question_two_a">H</string>
+    <string name="question_two_b">H+</string>
+    <string name="question_two_c">H2</string>
+    <string name="question_two_d">2H</string>
+    <string name="question_three">3、已知一种氧原子，原子核内含有8个质子和10个中子，则该氧原子核外电子
+        数为</string>
+    <string name="question_three_a">2</string>
+    <string name="question_three_b">8</string>
+    <string name="question_three_c">10</string>
+    <string name="question_three_d">18</string>
+    <string name="question_type_two">多项选择题（4分，漏选或多选不得分）</string>
+    <string name="question_four">4、下列做法符合“低碳生活”理念的有</string>
+    <string name="question_four_a">节约使用纸张</string>
+    <string name="question_four_b">加少使用塑料袋</string>
+    <string name="question_four_c">减少使用一次性纸杯</string>
+    <string name="question_four_d">砍伐树木</string>
+    <string name="submit">交卷</string>
+    <string name="correct_answer">查看答案</string>
+</resources>
